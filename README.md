@@ -43,6 +43,7 @@ To find duplicates, this script removes identical titles. Due to formatting inco
 
 
     Geospatial Metadata 2.0 - An approach for Volunteered Geographic
+    
     Geospatial Metadata 2.0-An approach for Volunteered Geographic
 
-- There is no function (yet) to sort out empty records. So there can be one or two half-empty rows in the final csv output file. Weed our manually if needed. 
+- There is no function (yet) to sort out empty records. So there can be one or two half-empty rows in the final csv output file. Weed our manually if needed.
