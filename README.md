@@ -3,6 +3,8 @@ Merge Scopus and Web of Science datasets. Removes duplicates according to Titles
 
 This is just a Proof of Concept. Please read through the code properly before using it in production / research.  
 
+**Note**: This repository contains two datasets with less than 2000 records each, used only for the purpose of testing the duplicate removal algorithm.
+
 ### Usage
 
     python3 woscop.py scopus.csv wos.tsv
