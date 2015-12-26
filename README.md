@@ -3,7 +3,7 @@ Merge Scopus and Web of Science datasets. Removes duplicates according to Titles
 
 This is just a Proof of Concept. Please read through the code properly before using it in production / research.  
 
-**Note**: This repository contains two datasets with less than 2000 records each, used only for the purpose of testing the duplicate removal algorithm.
+**Note**: This repository has been tested two datasets with less than 2000 records each, used only for the purpose of testing the duplicate removal algorithm. Download the [Scopus csv file](http://scientometrics.flov.gu.se/files/scopus.csv) and the [Web of Science tsv file](http://scientometrics.flov.gu.se/files/wos.tsv). 
 
 ### Usage
 
